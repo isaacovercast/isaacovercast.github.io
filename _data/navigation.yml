@@ -6,7 +6,7 @@ main:
   - title: "Workshops"
     url: /workshops/
   - title: "Posts"
-    url: /posts/
+    url: /blog/
   - title: "CV"
     url: /cv/
   - title: "About"
