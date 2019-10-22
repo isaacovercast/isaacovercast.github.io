@@ -71,6 +71,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ifitsfixeddontbreakit"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=2r3OrdwAAAAJ&hl=en&oi=ao"
 
 defaults:
   # _posts
