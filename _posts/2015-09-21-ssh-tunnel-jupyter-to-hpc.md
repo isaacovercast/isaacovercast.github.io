@@ -30,4 +30,4 @@ This is the imporant and confusing bit. 'localhost:8888' is telling the remote s
 Open a new tab and go to http://localhost:8888. Voila.
 This is the best diagram on the internet (image courtesy http://www.cyberknights.com.au/doc/PuTTY-tunnelling-HOWTO.html)
 
-[!png](/assets/images/tunnel-concept-diagram.png)
+![image](/assets/images/tunnel-concept-diagram.png)
