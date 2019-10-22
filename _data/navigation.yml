@@ -3,9 +3,11 @@ main:
     url: /publications/
   - title: "Software"
     url: /software/
-  - title: "CV"
-    url: /cv/
+  - title: "Workshops"
+    url: /workshops/
   - title: "Posts"
     url: /posts/
+  - title: "CV"
+    url: /cv/
   - title: "About"
     url: /about/
