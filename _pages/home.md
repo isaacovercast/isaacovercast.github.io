@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /Home
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/trance.png
