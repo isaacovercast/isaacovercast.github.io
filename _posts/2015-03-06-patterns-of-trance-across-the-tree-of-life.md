@@ -7,11 +7,10 @@ tags:
   - lulz
 ---
 
-![image](/assets/images/trance.png)
-
-CUNY Graduate Center English Student Association sponsored a conference on
+The CUNY Graduate Center English Student Association sponsored a conference on
 ["Trance"](https://trancetheconference.wordpress.com/conference-schedule/).
 
+![image](/assets/images/trance.png)
 
 I gave a talk titled ["Patterns of Trance Across the Tree of Life"](https://docs.google.com/presentation/d/11dQKnGTVrlC9tIA1blgXOcnJuqiVKs6A3C8gQF_hSDg/edit?usp=sharing),
 thinking about the biological underpinnings of trance and how these operate
