@@ -6,9 +6,7 @@ categories:
 tags:
   - hax
 ---
-Problem: I want to run jupyter notebooks on remote systems.
-
-Solution: SSH tunnelling!
+Problem: I want to run jupyter notebooks on remote systems. Solution: SSH tunnelling!
 
 > **NB:** These directions are chromebook specific, but extensive ssh tunnel +
 jupyter notebook documentation for mac and windows are provided on the [radcamp
