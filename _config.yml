@@ -49,6 +49,8 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+encoding: "utf-8"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
