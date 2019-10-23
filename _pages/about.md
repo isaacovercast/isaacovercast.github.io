@@ -21,7 +21,7 @@ communities. A related focus is to develop models of how biodiversity
 accumulates in ecological communites that integrate over multiple levels of
 biological organization, including species abundances, genetic diversities,
 and phylogenetic relationships. Expanding beyond individual communities, I am
-also interested in constructing machine learning models which using observed
+also interested in constructing machine learning models which use observed
 community-level data along with environmental data to identify environmental
 correlates of commuity abundance and genetic diversity structure. Finally, I
 construct inferential frameworks utilizing whole-genome data to understand how
