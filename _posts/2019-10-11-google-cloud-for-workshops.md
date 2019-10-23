@@ -1,5 +1,5 @@
 ---
-title: "RADCamp-NYC2019 redux & detaild configuration of google cloud HPC backend"
+title: "RADCamp-NYC2019 redux & detailed configuration of google cloud HPC backend"
 date: 2019-10-11T13:33:30-04:00
 categories:
   - blog
