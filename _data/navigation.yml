@@ -8,6 +8,6 @@ main:
   - title: "Posts"
     url: /blog/
   - title: "CV"
-    url: /cv/
+    url: https://docs.google.com/document/d/1lhxa9_r2fUzYxIxqKiXl7er_THDSXnAwDwo1dNbMz0U
   - title: "About"
     url: /about/
