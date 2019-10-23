@@ -1,10 +1,10 @@
 ---
-layout: splash
+#layout: splash
 permalink: /
 author_profile: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/EnvPC-Space.png
+#header:
+#  overlay_color: "#5e616c"
+#  overlay_image: /assets/images/EnvPC-Space.png
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
