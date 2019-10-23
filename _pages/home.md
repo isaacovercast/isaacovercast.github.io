@@ -15,7 +15,10 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-community-genetic-diversity.png
     alt: "Community Genetic Diversity"
     title: "Community Genetic Diversity"
-    excerpt: "Characterizing and analyising the distribution of genetic variation in ecological communities."
+    excerpt: "Characterizing and analysing the distribution of genetic variation in ecological communities."
+    url: "/research/community-genetic-diversity.md"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-eco-evolutionary-simulations.png
     alt: "Eco-evolutionary simulations"
     title: "Eco-evolutionary simulations"
@@ -27,6 +30,9 @@ feature_row:
     alt: "Whole-Genome Comparative Phylogeography"
     title: "Whole-Genome Comparative Phylogeography"
     excerpt: "Using whole-genome data to investigate historical demography of codistributed taxa."
+    url: "/research/whole-genome-comparative-phylogeography.md"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
