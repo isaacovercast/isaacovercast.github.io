@@ -31,10 +31,10 @@ Model-based inference in Phylogeography from single species to communities
 [CompPhylo workshops](https://compphylo.github.io/) are designed to introduce a
 myriad of tools for making statistical inference about historical processes
 using genetic/genomic data. After introducing statistical approaches in
-model-based inferences, participants will be introduced to inference frameworks
+model-based inferences, participants are be introduced to inference frameworks
 that span taxonomic scales from single-species demographic inference, to
 multi-species comparative analysis, to inference at the scale of the whole
-community. Participants will also get hands on experience using approximate
+community. Participants also get hands on experience using approximate
 Bayesian computation, supervised machine learning and composite likelihood
 methods for model comparison.
 
