@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /research/gendiv
+title: "Genetic diversity"
 ---
 
 Community Genetic Diversity Analysis
