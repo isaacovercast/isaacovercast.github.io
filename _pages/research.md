@@ -7,7 +7,7 @@ feature_row:
     alt: "Community Genetic Diversity"
     title: "Community Genetic Diversity"
     excerpt: "Characterizing and analysing the distribution of genetic variation in ecological communities."
-    url: "/research/community-genetic-diversity.md"
+    url: "/research/community-genetic-diversity/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
