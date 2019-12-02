@@ -1,4 +1,6 @@
 ---
+layout: single
+classes: wide
 permalink: /research/eco-evolutionary-simulations/
 title: "Eco-evolutionary Simulations"
 ---

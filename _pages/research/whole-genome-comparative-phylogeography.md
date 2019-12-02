@@ -1,4 +1,6 @@
 ---
+layout: single
+classes: wide
 permalink: /research/whole-genome-comparative-phylogeography/
 title: "Whole-Genome Comparative Phylogeography"
 ---

@@ -1,4 +1,6 @@
 ---
+layout: single
+classes: wide
 permalink: /research/community-genetic-diversity/
 title: "Community Genetic Diversity"
 ---
