@@ -3,7 +3,7 @@ permalink: /research/community-genetic-diversity/
 title: "Community Genetic Diversity"
 ---
 
-<a href="/assets/images/EnvPCSpace.png"><img src="/assets/images/EnvPCSpace.png"></a>
+<a href="/assets/images/EnvPCSpace.png"><img src="/assets/images/Env_PC_Space.png"></a>
 
 Biodiversity is structured hierarchically across spatial, temporal, and taxonomic 
 scales. It is therefore important to integrate across multiple axes of
