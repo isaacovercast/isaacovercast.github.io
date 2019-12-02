@@ -10,19 +10,18 @@ feature_row:
     url: "/research/community-genetic-diversity/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-
   - image_path: /assets/images/unsplash-gallery-eco-evolutionary-simulations.png
     alt: "Eco-evolutionary simulations"
     title: "Eco-evolutionary simulations"
     excerpt: "Modelling the accumulation of biodiversity in communities using individual based eco-evolutionary simulations."
-    url: "/research/eco-evolutionary-simulations.md"
+    url: "/research/eco-evolutionary-simulations/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-whole-genome-comparative-phylogeography.png
     alt: "Whole-Genome Comparative Phylogeography"
     title: "Whole-Genome Comparative Phylogeography"
     excerpt: "Using whole-genome data to investigate historical demography of codistributed taxa."
-    url: "/research/whole-genome-comparative-phylogeography.md"
+    url: "/research/whole-genome-comparative-phylogeography/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
