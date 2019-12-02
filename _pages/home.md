@@ -13,18 +13,18 @@ author_profile: true
 #  A fancy homepage <br/>
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-community-genetic-diversity.png
-    alt: "Community Genetic Diversity"
-    title: "Community Genetic Diversity"
-    excerpt: "Characterizing and analysing the distribution of genetic variation in ecological communities."
-    url: "/research/community-genetic-diversity/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-eco-evolutionary-simulations.png
     alt: "Eco-evolutionary simulations"
     title: "Eco-evolutionary simulations"
     excerpt: "Modelling the accumulation of biodiversity in communities using individual based eco-evolutionary simulations."
     url: "/research/eco-evolutionary-simulations/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-community-genetic-diversity.png
+    alt: "Community Genetic Diversity"
+    title: "Community Genetic Diversity"
+    excerpt: "Characterizing and analysing the distribution of genetic variation in ecological communities."
+    url: "/research/community-genetic-diversity/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-whole-genome-comparative-phylogeography.png
