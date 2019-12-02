@@ -1,4 +1,6 @@
 ---
+layout: single
+classes: wide
 permalink: /software/
 title: "Software"
 ---
