@@ -28,4 +28,4 @@ community-level data along with environmental data to identify environmental
 correlates of commuity abundance and genetic diversity structure. Finally, I
 construct inferential frameworks utilizing whole-genome data to understand how
 geographically co-distributed taxa have or have not concordantly responded
-to fluxuating shared environmental conditions.
+to fluctuating shared environmental conditions.
