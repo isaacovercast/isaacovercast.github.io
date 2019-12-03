@@ -79,7 +79,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=2r3OrdwAAAAJ&hl=en&oi=ao"
     - label: "CV"
-      icon: "fab fa-fw fa-file-text-o"
+      icon: "fab fa-fw fa-file-alt"
       url: "https://docs.google.com/document/d/1B43bmFet-kGjGYYDf4fu4HVLRHLfoWlcS7IxI54qzP4"
 
 defaults:
