@@ -45,5 +45,5 @@ climate change. Further work can be guided by these results to improve the
 inference by targeting unsampled environmental space. Importantly, this
 work can also be extended to investigate how communities across taxonomic
 levels are structured by environmental conditions, and whether they are
-similarly impacted by fluctuations in local environmenta conditions.
+similarly impacted by fluctuations in local environmental conditions.
 
