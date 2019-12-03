@@ -5,12 +5,16 @@ permalink: /research/community-genetic-diversity/
 title: "Community Genetic Diversity"
 ---
 
-<a href="/assets/images/EnvPCSpace.png"><img src="/assets/images/Env_PC_Space.png"></a>
+Communities assemble in a geographic and environmental context. But to what
+degree do shared geographic and evironmetal contexts dicatate the community
+structures we observe today? As part of my research program I seek to
+understand how community genetic diversity is structured across spatial
+scales and environmental gradients.
 
-Biodiversity is structured hierarchically across spatial, temporal, and taxonomic 
-scales. It is therefore important to integrate across multiple axes of
-biodiversity data when constructing models and performing inference. My core
-research interest is in investigating the feedbacks among axes of biodiversity
-data that accumulate across these different scales. 
+## Characterizing environmental conditions
 
-<a href="/assets/images/PredictedGeneticStructure.png"><img src="/assets/images/PredictedGeneticStructure.png"></a>
+![Characterizing environmental PC space](/assets/images/Env_PC_Space.png)
+
+## Using machine learning to predict community structure across the landscape
+
+![Predicting community genetic diversity structure across the landscape](/assets/images/PredictedGeneticStructure.png)
