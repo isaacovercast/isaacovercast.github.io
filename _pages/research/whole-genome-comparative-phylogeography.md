@@ -56,7 +56,19 @@ work.
 
 ![ML regressor parameter estimation for various model parameters](/assets/images/PTA-CrossValidation.png)
 
+Here we see the results of a typical ML regression cross-validation procedure.
+Simulations are used to train the ML regressor and then held-out datasets (generated
+with known parameter values) are presented to the ML model with the goal of
+testing accuracy of prediction of the known parameter values. Hi-fidelity
+ML inference should produce accurate predictions, and the cloud of points should
+fall on the identity line.
 
+Again, this is early development stage, so even modest correlations between
+true and predicted values indicate the potential of the ML framework. Given
+further testing and development cross-validation results will only continue to
+improve.
+
+## The future of comparative phylogeography
 PTA is the only comparative phylogeographic method that can make use of the
 information in whole-genome sequences, while fully accounting for linkage. We
 also designed it to have a simple, modern interface, a massively parallel
