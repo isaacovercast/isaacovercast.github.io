@@ -35,7 +35,7 @@ correlates, to predict the distribution of genetic variation of decapod
 communities at unobserved locations across the landscape? To this end we
 developed a machine learning inference procedure which we trained on the
 observed data and generated the following map of projected community genetic
-structure throughout the Coral Triangle.
+structure across the Coral Triangle.
 
 ![Predicting community genetic diversity structure across the landscape](/assets/images/PredictedGeneticStructure.png)
 
