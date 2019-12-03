@@ -12,7 +12,6 @@ understand how community genetic diversity is structured across spatial
 scales and environmental gradients.
 
 ## Characterizing environmental conditions
-
 My initial investigations are driven by a collaboration focusing on Coral
 Triangle decapod communities. We first characterized local environmental
 conditions by collapsing marine environmental variables into PC space, which
@@ -30,6 +29,17 @@ occupied by the sampled communities covers a significant fraction of this
 environmental space.
 
 ## Using machine learning to predict community structure across the landscape
-
+Now, given that we know the distribution of genetic variation within the
+observed decapod communities, can we use this information, along with
+environmental correrlates, to predict the distribution of genetic variation of
+decapod communities at unobserved locations across the landscape? To this end
+we developed a machine learning inference procedure which we trained on the
+observed data and generated the following map of projected community genetic
+structure throughout the Coral Triangle.
 
 ![Predicting community genetic diversity structure across the landscape](/assets/images/PredictedGeneticStructure.png)
+
+This map is a first step to identifying regions which may be either genetically
+buffered or vulnerable to incipient climate change. Further work can be guided
+by these results to improve the inference by targeting unsampled environmental
+space.
