@@ -39,7 +39,11 @@ structure across the Coral Triangle.
 
 ![Predicting community genetic diversity structure across the landscape](/assets/images/PredictedGeneticStructure.png)
 
-This map is a first step to identifying regions which may be either genetically
-buffered or vulnerable to incipient climate change. Further work can be guided
-by these results to improve the inference by targeting unsampled environmental
-space.
+This map is a first step to identifying Coral Triangle decapod communities
+which may be either genetically buffered against or vulnerable to incipient
+climate change. Further work can be guided by these results to improve the
+inference by targeting unsampled environmental space. Importantly, this
+work can also be extended to investigate how communities across taxonomic
+levels are structured by environmental conditions, and whether they are
+similarly impacted by fluctuations in local environmenta conditions.
+
