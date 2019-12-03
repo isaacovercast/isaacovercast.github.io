@@ -23,7 +23,7 @@ The inset shows the total environmental space of the region collapsed into the
 first two PCs, and also indicates the environmental space occupied by the ten
 sampling locations of the observed decapod communities. The larger panel shows
 the environmental PC space projected across the whole landscape, clipped to
-the locations where corals are known to exists. Here we see that the
+the locations where corals are known to exist. Here we see that the
 environmental space of the Coral Triangle is quite broad and that the space
 occupied by the sampled communities covers a significant fraction of this
 environmental space.
