@@ -5,9 +5,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Accepted
---------
-
 McGill, B., Chase, J., Hortal, J., **Overcast, I.**, Rominger, A., Rosindell, J., Borges, P., Emerson, B., Etienne, R., Harmon, L., Mahler, L., Massol, F., Neves, P., Parent, C., Ruffley, M., Gillespie, R. (2019). Unifying macroecology and macroevolution to answer fundamental questions about biodiversity. Global Ecology and Biogeography. Accepted.
 
 Clugston, J., Kenicer, G., Milne, R., **Overcast, I.**, Wilson, T., Nagalingum, N. (2019). RADseq as a valuable tool for plants with large genomes: a case study in cycads. Molecular Ecology Resources.
