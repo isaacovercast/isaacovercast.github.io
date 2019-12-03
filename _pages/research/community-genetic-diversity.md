@@ -30,10 +30,10 @@ environmental space.
 
 ## Using machine learning to predict community structure across the landscape
 Now, given that we know the distribution of genetic variation within the
-observed decapod communities, can we use this information, along with
-environmental correrlates, to predict the distribution of genetic variation of
-decapod communities at unobserved locations across the landscape? To this end
-we developed a machine learning inference procedure which we trained on the
+observed decapod communities, we use this information, along with environmental
+correlates, to predict the distribution of genetic variation of decapod
+communities at unobserved locations across the landscape? To this end we
+developed a machine learning inference procedure which we trained on the
 observed data and generated the following map of projected community genetic
 structure throughout the Coral Triangle.
 
