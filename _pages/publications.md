@@ -9,7 +9,7 @@ McGill B, Chase J, Hortal J, **Overcast I**, Rominger A, Rosindell J, Borges PAV
 
 Clugston J, Kenicer G, Milne R, **Overcast I**, Wilson T, Nagalingum N. (2019). RADseq as a valuable tool for plants with large genomes: a case study in cycads. *Molecular Ecology Resources*.
 
-Garci­a-Olivare V, Patin± J, **Overcast I**, Castellano AS, Lo³pez de Heredi U, Mora-Ma¡rque F, Machado A, Hickerson MJ, Emerson BC (2019). A topoclimate model for Quaternary insular speciation. *Journal of Biogeography*.
+Garcia-Olivare V, Patino J, **Overcast I**, Castellano AS, Lo³pez de Heredi U, Mora-Ma¡rque F, Machado A, Hickerson MJ, Emerson BC (2019). A topoclimate model for Quaternary insular speciation. *Journal of Biogeography*.
 
 **Overcast I**, Emerson BC, Hickerson MJ (2019). An integrated model of population genetics and community ecology. *Journal of Biogeography*.
 
