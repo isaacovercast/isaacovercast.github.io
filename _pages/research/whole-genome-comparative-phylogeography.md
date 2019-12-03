@@ -27,7 +27,7 @@ a comparative phylogeographic method for whole-genome data. We call this method
 
 A few figures to demonstrate the core concepts:
 
-### Can we distinguish shared population expansion times?
+## Do shared demographic histories create similar patterns in the genetic data?
 
 ![2000 PTA mSFS plotted into PC space](/assets/images/PTA-mSFS-PCA.png)
 
@@ -38,15 +38,14 @@ of the point indicates the time of co-expansion. The position of each point
 indicates how 'similar' the resulting mSFS is to all the other simulations,
 after projecting the results into PC space.
 
+## Can we use machine learning to identify shared demographic histories?
 
 ![ML classifier confusion matrix of ~1000 simulations](/assets/images/PTA-ConfusionMatrix.png)
 
-
+## Can we use machine learning to estimate model parameters relevant to shared demographic histories?
 
 ![ML regressor parameter estimation for various model parameters](/assets/images/PTA-CrossValidation.png)
 
-This method is still under active development, so these are proof-of-concept
-results to give an idea how it works.
 
 PTA is the only comparative phylogeographic method that can make use of the
 information in whole-genome sequences, while fully accounting for linkage. We
