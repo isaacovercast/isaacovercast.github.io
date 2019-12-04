@@ -15,7 +15,7 @@ same environmental conditions.
 
 Recently, collaborators and I have developed a comparative phylogeographic
 method for whole-genome data. We call this method
-[Phylogeograpic Temporal Analysis (PTA)](https://drive.google.com/drive/folders/1FBCY63dHIbldReDzD71Kc7947o_74NAi).
+[Phylogeograpic Temporal Analysis (PTA)](https://github.com/isaacovercast/PTA)
 A couple figures to demonstrate the core concepts:
 
 ## Do shared demographic histories create similar patterns in the genetic data?
