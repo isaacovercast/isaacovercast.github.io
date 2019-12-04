@@ -13,8 +13,8 @@ biodiversity data that accumulate across these different scales. I primarily
 develop individual-based, mechanistic models, and apply statistical analysis
 with a focus on emerging machine learning methods.
 
-Take this example of real data from a community of spiders from La Reunion. Here
-on the left is a typical species abundance distribution (SAD) and on the right
+Take this example of real data from a community of spiders from La Reunion.
+On the left is a typical species abundance distribution (SAD) and on the right
 is the species genetic diversity distribution (SGD) which is constructed in an
 identical fashion, gathering COI data at the community-scale, calculating
 nucleotide diversity (pi) and ordering pi from greatest to least:
@@ -22,15 +22,37 @@ nucleotide diversity (pi) and ordering pi from greatest to least:
 
 The core insight here is that the SAD and SGD record the history of the
 community on different timescales! My modeling approach seeks to simultaneously
-exploit the information from both of these axes of data.
+exploit the information from both of these axes of data, and to extend this
+synthesis to include phylogenetic information as well!
 
 ## gimmeSAD: A joint neutral model of community abundance and genetic diversity
 As a first approximation, collaborators and I developed a joint model of
 abundance and genetic diversity in ecological communities. This model is called
 [gimmeSAD](https://github.com/isaacovercast/gimmeSAD) and it is published in
 [Journal of Biogeography](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13541)
+
+This is an individual based model inspired by Hubbell's neutral theory (following
+Rosindell and Harmon 2013) in which we model a local community of fixed size
+undergoing a birth/death/colonization process. A simple figure shows the basic idea:
+
 ![Forward-time Community Assembly Model](/assets/images/gimmeSAD-Assembly-Model.png)
+
+This community assembly process is linked to a backward-time coalescent process
+in order to generate genetic variation per species, conditioned on the abundance
+and colonization history of each species in the forward-time process. The results
+of a typical simulation generate linked patterns of genetic diversity and
+abunance which can be visualized:
+
 ![Simulated 2D-SGD and SAD](/assets/images/gimmeSAD-Simulations.png)
+The right panel here shows a typical SAD generated from a simulation and the
+left panel shows the 2D distribution of genetic variation within the local
+communityi (pi) and genetic divergence between the local and the metacommunity sister
+species (Dxy).
+
+We can generate numerous simulations using this model and use an approximate
+Bayesian computation inference procedure to estimate parameters given observed
+data from real communities (for example from the spider community data shown
+above).
 
 ![gimmeSAD Empirical Results](/assets/images/gimmeSAD-Empirical.png)
 
