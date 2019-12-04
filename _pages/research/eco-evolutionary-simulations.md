@@ -13,10 +13,22 @@ biodiversity data that accumulate across these different scales. I primarily
 develop individual-based, mechanistic models, and apply statistical analysis
 with a focus on emerging machine learning methods.
 
+Take this example of real data from a community of spiders from La Reunion. Here
+on the left is a typical species abundance distribution (SAD) and on the right
+is the species genetic diversity distribution (SGD) which is constructed in an
+identical fashion, gathering COI data at the community-scale, calculating
+nucleotide diversity (pi) and ordering pi from greatest to least:
 ![Empirical SAD and SGD](/assets/images/gimmeSAD-Abundance-Genetic-data.png)
 
-## gimmeSAD: A joint neutral model of community abundance and genetic diversity
+The core insight here is that the SAD and SGD record the history of the
+community on different timescales! My modeling approach seeks to simultaneously
+exploit the information from both of these axes of data.
 
+## gimmeSAD: A joint neutral model of community abundance and genetic diversity
+As a first approximation, collaborators and I developed a joint model of
+abundance and genetic diversity in ecological communities. This model is called
+[gimmeSAD](https://github.com/isaacovercast/gimmeSAD) and it is published in
+[Journal of Biogeography](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13541)
 ![Forward-time Community Assembly Model](/assets/images/gimmeSAD-Assembly-Model.png)
 ![Simulated 2D-SGD and SAD](/assets/images/gimmeSAD-Simulations.png)
 
