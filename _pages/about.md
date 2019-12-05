@@ -29,3 +29,9 @@ correlates of commuity abundance and genetic diversity structure. Finally, I
 construct inferential frameworks utilizing whole-genome data to understand how
 geographically co-distributed taxa have or have not concordantly responded
 to fluctuating shared environmental conditions.
+
+I am currently a postdoc in the Morlon group at Institut de Biologie de l'Ecole
+Normale Superieure in Paris, where I am developing theory and models of island
+biodiversity genomics. My position is associated with an EU funded (Horizon
+2020) project which you may learn more about at the website:
+[https://www.ibiogen.eu/](https://www.ibiogen.eu/).
