@@ -64,7 +64,7 @@ Panels a) and d) show ABC posterior estimates of H' and lambda for the spider
 community and panels b) and e) show posterior estimates for two weevil
 communities. Panels c) and f) depict ABC cross-validation for each of these
 parameters, essentially indicating the ability of the ABC procedure to
-estimate parameter from simulations generated using known parameter values.
+estimate parameters from simulations generated using known parameter values.
 
 ## MESS: Massive Eco-evolutionary Synthesis Simulations
 
@@ -72,11 +72,19 @@ Collaborators and I have more recently embarked on an effort to increase the
 power of the gimmeSAD model by introducing non-neutral community assembly
 processes (e.g. competition and environmental filtering) and by including a
 speciation process in the local community. We call this new formulation the
-[MESS model](https://github.com/messdiv/MESS). For example we can implement
-non-neutral dynamics with this rather simple formulation which is borrowed
+[MESS model](https://github.com/messdiv/MESS). For example, we have implemented
+non-neutral dynamics by giving species trait values and borrowing mechanics
 from classic co-existence theory:
 
 ![MESS Non-neutral Dynamics](/assets/images/MESS-Non-Neutral-Dynamics.png)
+
+In the neutral case individuals of different species are ecologically equivalent,
+so the probability of being removed is independent of species identity, and is
+equal for all individuals in the community. With non-neutral dynamics we allow
+individuals to have differential probability of death based on their trait
+values and either a competition or an environmental filtering model. Several
+promising avenues of research are available here to improve the non-neutral
+dynamics of the model.
 
 MESS model simulations can be used to not only estimate key ecological and
 evolutionary parameters but also to classify community assembly models using
