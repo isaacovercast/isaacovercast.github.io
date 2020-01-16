@@ -6,7 +6,7 @@ title: "Community Genetic Diversity"
 ---
 
 Communities assemble in a geographic and environmental context. But to what
-degree do shared geographic and environmetal contexts dicatate the community
+degree do shared geographic and environmental contexts dicatate the community
 structures we observe today? As part of my research program I seek to
 understand how community genetic diversity is structured across spatial
 scales and environmental gradients.
