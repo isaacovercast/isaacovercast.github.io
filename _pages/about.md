@@ -20,7 +20,7 @@ My core research revolves around several themes, the binding element of which
 is comparative population genetics. One target of my research is to characterize
 and develop models to explain the distribution of genetic variation in ecological
 communities. A related focus is to develop models of how biodiversity
-accumulates in ecological communites that integrate over multiple levels of
+accumulates in ecological communities that integrate over multiple levels of
 biological organization, including species abundances, genetic diversities,
 and phylogenetic relationships. Expanding beyond individual communities, I am
 also interested in constructing machine learning models which use observed
