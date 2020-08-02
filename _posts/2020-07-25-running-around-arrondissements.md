@@ -44,3 +44,5 @@ Not done yet, but this is the progress so far. Will be updated as needs be.
 ![image](/assets/images/runs/15th.jpg)
 
 ![image](/assets/images/runs/16th.jpg)
+
+![image](/assets/images/runs/17th.png)
