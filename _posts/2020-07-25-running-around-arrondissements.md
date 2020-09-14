@@ -13,7 +13,7 @@ to have random (and pointless) personal goals.
 Solution: Run the perimeter of each of the 20 arrondissement in Paris. Side
 bonus, this is also a really great way to get to know the city.
 
-Not done yet, but this is the progress so far. Will be updated as needs be.
+Status: Finished Sept 13, 2020
 
 ![image](/assets/images/runs/1st.jpg)
 
