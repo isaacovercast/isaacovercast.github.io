@@ -50,3 +50,7 @@ Not done yet, but this is the progress so far. Will be updated as needs be.
 ![image](/assets/images/runs/17th.png)
 
 ![image](/assets/images/runs/18th.png)
+
+![image](/assets/images/runs/19th.png)
+
+![image](/assets/images/runs/20th.png)
