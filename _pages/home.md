@@ -20,7 +20,7 @@ feature_row:
     url: "/research/eco-evolutionary-simulations/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-biodiversity-global-change.png
+  - image_path: /assets/images/unsplash-gallery-biodiversity-global-change2.png
     alt: "Biodiversity & Global Change"
     title: "Biodiversity & Global Change"
     excerpt: "Applying integrative models to predict vulnerability of biodiversity under climate change."
