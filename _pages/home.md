@@ -44,7 +44,7 @@ biodiversity has accumulated in the past in order to better predict how it will
 change in the future, specifically in the context of anthropogenic habitat
 disturbance, biological invasions, and global climate change. A unifying object
 of investigation in my work is the aggregated intraspecific genetic variation
-within ecological communities1 (the genetic structure or "genetic health") which
+within ecological communities (the genetic structure or "genetic health") which
 is critical for conservation and remediation efforts, yet which is poorly
 understood at this time.
 
