@@ -26,7 +26,7 @@ From 2019-2021 I was a postdoc in the Morlon group at Institut de Biologie de l'
 Normale Superieure in Paris, where I developed theory and models of island
 biodiversity genomics. My position was associated with an EU funded (Horizon
 2020) project which you may learn more about at the website:
-[https://www.ibiogen.eu/](https://www.ibiogen.eu/).
+[http://www.ibiogen.eu/](http://www.ibiogen.eu/).
 
 I earned my PhD in 2020 at The Graduate Center of the City University of New York
 under the supervision of Dr Michael Hickerson (Thesis: *On the Distribution of
