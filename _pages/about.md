@@ -33,7 +33,7 @@ under the supervision of Dr Michael Hickerson (Thesis: *On the Distribution of
 Genetic Variation in Ecological Communities*).
 
 
-# Education
+## Education & Training
 <div class="col-md-7">
         <ul class="ul-edu fa-ul mb-0">
           
