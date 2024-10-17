@@ -34,7 +34,7 @@ Genetic Variation in Ecological Communities*).
 
 
 # Education
-
+<div class="col-md-7">
         <ul class="ul-edu fa-ul mb-0">
           
           <li>
