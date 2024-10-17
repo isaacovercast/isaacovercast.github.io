@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /research/eco-evolutionary-simulations/
-title: "Eco-evolutionary Simulations"
+permalink: /research/eco-evolutionary-synthesis/
+title: "Eco-evolutionary Synthesis"
 ---
 
 Biodiversity is structured hierarchically across spatial, temporal, and

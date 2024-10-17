@@ -14,8 +14,8 @@ author_profile: true
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
 feature_row:
   - image_path: /assets/images/unsplash-gallery-eco-evolutionary-synthesis.png
-    alt: "Eco-evolutionary Synthesis"
-    title: "Eco-evolutionary Synthesis"
+    alt: "Eco-Evolutionary Synthesis"
+    title: "Eco-Evolutionary Synthesis"
     excerpt: "Understanding the dynamic feedbacks among processes operating on ecological and evolutionary timescales to predict community genetic structure and genetic health."
     url: "/research/eco-evolutionary-simulations/"
     btn_label: "Read More"
@@ -28,8 +28,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-social-ecological-resilience.png
-    alt: "Promoting social-ecological resilience"
-    title: "Promoting social-ecological resilience"
+    alt: "Promoting Social-Ecological Resilience"
+    title: "Promoting Social-Ecological Resilience"
     excerpt: "Developing models of biodiversity resilience that can inform community-relevant solutions to the biodiversity crisis."
     url: "/research/whole-genome-comparative-phylogeography/"
     btn_label: "Read More"
