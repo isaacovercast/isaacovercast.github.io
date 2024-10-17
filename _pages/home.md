@@ -14,34 +14,39 @@ author_profile: true
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
 feature_row:
   - image_path: /assets/images/unsplash-gallery-eco-evolutionary-simulations.png
-    alt: "Eco-evolutionary simulations"
-    title: "Eco-evolutionary simulations"
-    excerpt: "Modelling the accumulation of biodiversity in communities using individual based eco-evolutionary simulations."
+    alt: "Eco-evolutionary Synthesis"
+    title: "Eco-evolutionary Synthesis"
+    excerpt: "Understanding the dynamic feedbacks among processes operating on ecological and evolutionary timescales to predict community genetic structure and genetic health."
     url: "/research/eco-evolutionary-simulations/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-community-genetic-diversity.png
-    alt: "Community Genetic Diversity"
-    title: "Community Genetic Diversity"
-    excerpt: "Characterizing and analysing the distribution of genetic variation in ecological communities."
+    alt: "Biodiversity & Global Change"
+    title: "Biodiversity & Global Change"
+    excerpt: "Applying integrative models to predict vulnerability of biodiversity under climate change."
     url: "/research/community-genetic-diversity/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-whole-genome-comparative-phylogeography.png
-    alt: "Whole-Genome Comparative Phylogeography"
-    title: "Whole-Genome Comparative Phylogeography"
-    excerpt: "Using whole-genome data to investigate historical demography of codistributed taxa."
+  - image_path: /assets/images/unsplash-gallery-social-ecological-resilience.png
+    alt: "Promoting social-ecological resilience"
+    title: "Promoting social-ecological resilience"
+    excerpt: "Developing models of biodiversity resilience that can inform community-relevant solutions to the biodiversity crisis."
     url: "/research/whole-genome-comparative-phylogeography/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
-Biodiversity is structured hierarchically across spatial, temporal, and
-taxonomic scales. It is therefore important to integrate across multiple axes
-of biodiversity data when constructing models and performing inference. My core
-research interest is in investigating the feedbacks among axes of biodiversity
-data that accumulate across these different scales. Learn more about my specific
-research interests below:
+I am interested in the feedbacks between ecological and evolutionary processes
+and the mechanisms that generate and maintain biodiversity using computational
+models, multidimensional biodiversity data, and machine learning inference
+approaches. The goal of this work is to improve our understanding of how
+biodiversity has accumulated in the past in order to better predict how it will
+change in the future, specifically in the context of anthropogenic habitat
+disturbance, biological invasions, and global climate change. A unifying object
+of investigation in my work is the aggregated intraspecific genetic variation
+within ecological communities1 (the genetic structure or "genetic health") which
+is critical for conservation and remediation efforts, yet which is poorly
+understood at this time.
 
 {% include feature_row %}
 
