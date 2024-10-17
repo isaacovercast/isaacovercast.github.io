@@ -1,6 +1,6 @@
 main:
   - title: "Research"
-    url: /research/
+    url: /_research/
   - title: "Publications"
     url: /publications/
   - title: "Software"
