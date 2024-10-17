@@ -77,7 +77,7 @@ author:
       url: "https://scholar.google.com/citations?user=2r3OrdwAAAAJ&hl=en&oi=ao"
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
-      url: "https://docs.google.com/document/d/1A1tTPmXpf3aUshaqLqpzjv5Z4XOinKK-aUiRP7cyg84/preview"
+      url: "https://docs.google.com/document/d/1A1tTPmXpf3aUshaqLqpzjv5Z4XOinKK-aUiRP7cyg84/export?format=pdf&attachment=false"
 
 defaults:
   # _posts
