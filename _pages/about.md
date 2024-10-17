@@ -15,7 +15,7 @@ I am currently a Research Scientist at the California Academy of Sciences, where
 developing a Biodiversity Resilience Model in association with the 
 [Islands 2030 initiative](https://www.calacademy.org/about-us/major-initiatives/islands-2030).
 
-From 2022-2023 I was a postdoc in the [https://www.ecoevomatics.org/](EcoEvoMatics lab)
+From 2022-2023 I was a postdoc in the [EcoEvoMatics Lab](https://www.ecoevomatics.org/)
 with Andy Rominger at the University of Maine. My work here revolves around
 continued development and application of our Rules of Life Engine (the RoLE
 model), which unifies ecological and evolutionary processes to better understand
@@ -31,3 +31,68 @@ biodiversity genomics. My position was associated with an EU funded (Horizon
 I earned my PhD in 2020 at The Graduate Center of the City University of New York
 under the supervision of Dr Michael Hickerson (Thesis: *On the Distribution of
 Genetic Variation in Ecological Communities*).
+
+
+<div class="row">
+
+      
+   <div class="col-md-5">
+        <div class="section-subheading">Interests</div>
+        <ul class="ul-interests mb-0">
+          
+          <li>Evolutionary genomics</li>
+          
+          <li>Invasive genomics</li>
+          
+          <li>Data Science</li>
+          
+          <li>Artificial Intelligence</li>
+          
+          <li>Statistical Genomics</li>
+          
+          <li>Population Genetics</li>
+          
+          <li>Mathematical &amp; Algorithmic Phylogenetics</li>
+          
+          <li>Functional genomics</li>
+          
+        </ul>
+      </div>
+      
+
+      
+   <div class="col-md-7">
+        <div class="section-subheading">Education</div>
+        <ul class="ul-edu fa-ul mb-0">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Computational Biology, 2020</p>
+              <p class="institution">Graduate Center of the City University of New York</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Postdoctoral Researcher, 2019-2021</p>
+              <p class="institution"> IBENS | Paris, FR</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Postdoctoral Researcher, 2022-2023</p>
+              <p class="institution"> IBSS | CAS | </p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+   </div>
+  </div>
+</div>
