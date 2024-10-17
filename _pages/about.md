@@ -49,15 +49,15 @@ Genetic Variation in Ecological Communities*).
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               Postdoctoral Researcher, 2019-2021  
-              *IBENS | Paris, FR*
+              <p>IBENS | Paris, FR</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">Postdoctoral Researcher, 2022-2023</p>
-              <p class="institution"> IBSS | CAS | </p>
+              Postdoctoral Researcher, 2022-2023
+              </p>IBSS | CAS | </p>
             </div>
           </li>
           
