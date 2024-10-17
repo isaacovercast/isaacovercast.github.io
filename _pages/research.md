@@ -28,6 +28,22 @@ feature_row3:
     url: "/research/whole-genome-comparative-phylogeography/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-community-genetic-diversity.png
+    alt: "Community Genetic Diversity"
+    title: "Community Genetic Diversity"
+    excerpt: "Characterizing and analysing the distribution of genetic variation in ecological communities."
+    url: "/research/community-genetic-diversity/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row5:
+  - image_path: /assets/images/unsplash-gallery-whole-genome-comparative-phylogeography.png
+    alt: "Whole-Genome Comparative Phylogeography"
+    title: "Whole-Genome Comparative Phylogeography"
+    excerpt: "Using whole-genome data to investigate historical demography of codistributed taxa."
+    url: "/research/whole-genome-comparative-phylogeography/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 I am interested in the feedbacks between ecological and evolutionary processes
@@ -45,3 +61,5 @@ understood at this time.
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row5" type="left" %}
