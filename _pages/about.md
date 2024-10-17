@@ -46,18 +46,26 @@ Genetic Variation in Ecological Communities*).
           </li>
           
           <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+            <i class="fa-li fas fa-gears"></i>
             <div class="description">
               Postdoctoral Researcher, 2019-2021  
               <p>IBENS | Paris, FR</p>
             </div>
           </li>
+
+          <li>
+            <i class="fa-li fas fa-gears"></i>
+            <div class="description">
+              Postdoctoral Researcher, 2023-2024
+              <p>School of Biology & Ecology | University of Maine</p>
+            </div>
+          </li>
           
           <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+            <i class="fa-li fas fa-gears"></i>
             <div class="description">
-              Postdoctoral Researcher, 2022-2023
-              </p>IBSS | CAS | </p>
+              Research Scientist, 2023-2024
+              <p>Institute for Biodiversity Science & Sustainability | California Academy of Sciences</p>
             </div>
           </li>
           
