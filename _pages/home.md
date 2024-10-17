@@ -13,14 +13,14 @@ author_profile: true
 #  A fancy homepage <br/>
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-eco-evolutionary-simulations.png
+  - image_path: /assets/images/unsplash-gallery-eco-evolutionary-synthesis.png
     alt: "Eco-evolutionary Synthesis"
     title: "Eco-evolutionary Synthesis"
     excerpt: "Understanding the dynamic feedbacks among processes operating on ecological and evolutionary timescales to predict community genetic structure and genetic health."
     url: "/research/eco-evolutionary-simulations/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-community-genetic-diversity.png
+  - image_path: /assets/images/unsplash-gallery-biodiversity-global-change.png
     alt: "Biodiversity & Global Change"
     title: "Biodiversity & Global Change"
     excerpt: "Applying integrative models to predict vulnerability of biodiversity under climate change."
