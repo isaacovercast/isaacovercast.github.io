@@ -35,32 +35,6 @@ Genetic Variation in Ecological Communities*).
 
 <div class="row">
 
-      
-   <div class="col-md-5">
-        <div class="section-subheading">Interests</div>
-        <ul class="ul-interests mb-0">
-          
-          <li>Evolutionary genomics</li>
-          
-          <li>Invasive genomics</li>
-          
-          <li>Data Science</li>
-          
-          <li>Artificial Intelligence</li>
-          
-          <li>Statistical Genomics</li>
-          
-          <li>Population Genetics</li>
-          
-          <li>Mathematical &amp; Algorithmic Phylogenetics</li>
-          
-          <li>Functional genomics</li>
-          
-        </ul>
-      </div>
-      
-
-      
    <div class="col-md-7">
         <div class="section-subheading">Education</div>
         <ul class="ul-edu fa-ul mb-0">
@@ -68,8 +42,8 @@ Genetic Variation in Ecological Communities*).
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Computational Biology, 2020</p>
-              <p class="institution">Graduate Center of the City University of New York</p>
+              PhD in Computational Biology, 2020
+              Graduate Center of the City University of New York
             </div>
           </li>
           
@@ -95,4 +69,3 @@ Genetic Variation in Ecological Communities*).
 
    </div>
   </div>
-</div>
