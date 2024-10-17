@@ -40,16 +40,16 @@ Genetic Variation in Ecological Communities*).
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p>PhD in Computational Biology, 2020</p>
-              Graduate Center of the City University of New York
+              PhD in Computational Biology, 2020
+              <p>Graduate Center of the City University of New York</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p>Postdoctoral Researcher, 2019-2021</p>
-              IBENS | Paris, FR
+              Postdoctoral Researcher, 2019-2021  
+              *IBENS | Paris, FR*
             </div>
           </li>
           
