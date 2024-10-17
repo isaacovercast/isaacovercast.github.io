@@ -20,7 +20,7 @@ with Andy Rominger at the University of Maine. My work here revolves around
 continued development and application of our Rules of Life Engine (the RoLE
 model), which unifies ecological and evolutionary processes to better understand
 how biodiversity is generated and maintained. The NSF award abstract for this
-project is [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1927319&HistoricalAwards=false](here).
+project is here: [Award # 1927319](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1927319&HistoricalAwards=false).
 
 From 2019-2021 I was a postdoc in the Morlon group at Institut de Biologie de l'Ecole
 Normale Superieure in Paris, where I developed theory and models of island
