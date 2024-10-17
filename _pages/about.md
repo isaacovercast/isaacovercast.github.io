@@ -56,7 +56,7 @@ Genetic Variation in Ecological Communities*).
           <li>
             <i class="fa-li fas fa-gears"></i>
             <div class="description">
-              Postdoctoral Researcher, 2023-2024
+              Postdoctoral Researcher, 2022-2023
               <p>School of Biology & Ecology | University of Maine</p>
             </div>
           </li>
