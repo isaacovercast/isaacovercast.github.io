@@ -8,9 +8,11 @@ title: "Software"
 Community Genetic Diversity Analysis
 ------------------------------------
 
-[gimmeSAD](http://github.com/isaacovercast/gimmeSAD): An integrated model of population genetics and community ecology
+[iBioGen](https://github.com/iBioGen/iBioGen): A joint model of macroevolution and abundance/genetic island diversity
 
 [MESS](https://github.com/messDiv/MESS): Massive Eco-Evolutionary Synthesis Simulations
+
+[gimmeSAD](http://github.com/isaacovercast/gimmeSAD): An integrated model of population genetics and community ecology
 
 [easyCGD](https://github.com/isaacovercast/easyCGD): Quantifying and analyzing community genetic diversity structure
 
