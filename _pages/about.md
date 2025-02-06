@@ -11,8 +11,12 @@ In my research I develop and apply computational models and machine learning
 methods to multidimensional biodiversity datasets, with the goal of
 understanding and predicting the response of biodiversity to global change.
 
-I am currently a Research Scientist at the California Academy of Sciences, where I am
-developing a Biodiversity Resilience Model in association with the 
+I am currently an Associate Research Scientist at Columbia University, working in
+the [Eaton Lab](https://eaton-lab.org/) to develop AI tools for modeling
+spatial patterns of genetic diverity for ecological communities or assemblages.
+
+From 2023-2024 I was a Research Scientist at the California Academy of Sciences, where I worked
+on developing a Biodiversity Resilience Model in association with the 
 [Islands 2030 initiative](https://www.calacademy.org/about-us/major-initiatives/islands-2030).
 
 From 2022-2023 I was a postdoc in the [EcoEvoMatics Lab](https://www.ecoevomatics.org/)
