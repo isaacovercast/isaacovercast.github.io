@@ -7,6 +7,8 @@ main:
     url: /software/
   - title: "Workshops"
     url: /workshops/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Posts"
     url: /blog/
   - title: "About"
